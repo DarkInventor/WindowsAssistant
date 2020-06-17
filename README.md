@@ -24,4 +24,4 @@ Steps to use :
 3) To install pyaudio use pip install PyAudio-0.2.11-cp37-cp37m-win_amd64.whl
 4) If you need repulsor sound in starting then remove the commented code
 
-Note:- Code will only work if it will find a virtual environment. So do not forget to create a virtual environment.
+Note:- Code will only work if it will find a virtual environment. So do not forget to create a virtual environment
