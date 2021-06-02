@@ -17,6 +17,6 @@ selenium==3.141.0
 soupsieve==1.9.3
 SpeechRecognition==3.8.1
 sqlparse==0.3.0
-urllib3==1.25.3
+urllib3==1.26.5
 wikipedia==1.4.0
 WMI==1.4.9
