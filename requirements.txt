@@ -10,7 +10,7 @@ pymongo==3.9.0
 pypiwin32==223
 pyttsx3==2.71
 pytz==2019.2
-pywin32==224
+pywin32==301
 pywin32-ctypes==0.2.0
 requests==2.22.0
 selenium==3.141.0
